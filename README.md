@@ -1,2 +1,2 @@
 # django-portfolio
-Portfolio project using Django, Gunicorn, Nginx &amp; Postgres
+Portfolio project using Django, Gunicorn, Nginx, Postgres and Docker
